@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(36, 172, 77);
+}
+
+h1{
+    font-family: fantasy;
+    font-weight: 500;
+    color: cornsilk;
+    border: black 1px;
+}
+
+img{
+    width: 400px;
+}
+
+#thirdDiv{
+    height: 600px;
+    width: 500px;
+    background: blueviolet;
+    padding: 50px;
+    border-radius: 10px;
+    border: solid 3px black;
+}
+
+#spaind{
+    font-size: 18px;
+    margin: 50px;
+}
