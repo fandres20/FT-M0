@@ -1,5 +1,12 @@
 body{
-    background-color: rgb(36, 172, 77);
+    background: url(https://lh3.googleusercontent.com/proxy/UUccdp7fCEqWG0SfUtfLs93sdiJBhfwh04oHfDW0mWHH1aYBqd9-2wVmX4py13zbkMm4kuG6eRgPiDg5_iZF0O0WVUETUkjyBcx1IpQuIL6BKJpMXoYMRRdqX8nzb4wSwKh5VbBR-NmfwVYss2-W6Ot8bOaN3cSso7qbfRyNtNpXMdk-);
+    padding: 0;
+    margin: 0;
+    background-size: cover;
+    background-position: center;
+    font-family: sans-serif;
+    
+
 }
 
 h1{
